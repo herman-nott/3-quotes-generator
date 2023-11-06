@@ -61,8 +61,7 @@ async function getQuote() {
             } else {
                 continue;
             }
-        }
-                
+        }     
 
         // Debug Console Output
         // console.log(currentQuote);
